@@ -31,8 +31,6 @@ Profile Share: \\DC01\Profiles$
 
 ### 1. Create Profiles Shared Folder
 A folder named **Profiles** was created on the server and shared as:
-
-## Configuration Steps ### 1. Create Profiles Folder A folder named **Profiles** was created on the server.
 ### 2. Configure Shared Folder The folder was shared with the following path: ``` \\DC01\Profiles$ ``` 
 ### 3. Configure Permissions Share and NTFS permissions were configured to allow users to create and store their profile folders. 
 ### 4. Configure Profile Path In **Active Directory Users and Computers**, the user profile path was configured as: ``` \\DC01\Profiles$\%username% ``` --- 
