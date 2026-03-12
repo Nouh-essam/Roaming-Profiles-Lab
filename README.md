@@ -58,4 +58,4 @@ A folder named **Profiles** was created on the server and shared as:
 ![server-profile.png](server-profile.png)
 
 ### Client Desktop Test
-![desktop-test.png](desktop-test.png)
+![documents-test.png](documents-test.png)
